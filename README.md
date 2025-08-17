@@ -73,5 +73,5 @@ Este documento reúne **resumos, anotações e dicas práticas** para configurar
 
 ---
 
-✍️ **Autor:** *[Seu Nome]*  
-📅 **Data:** *[Atualize aqui]*  
+✍️ **Autor:** *José Miguel*  
+📅 **Data:** *17/08/2025*  
